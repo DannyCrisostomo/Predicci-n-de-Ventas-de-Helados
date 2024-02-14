@@ -73,5 +73,3 @@ ggplot(data = ventas_por_heladeria, aes(x=id_heladeria , y=ventas_soles))+
 Este proyecto está bajo la licencia MIT. Para más detalles, consulta el archivo [LICENSE](LICENSE).
 
 ---
-
-Recuerda personalizar este README según las necesidades específicas de tu proyecto. ¡Espero que te sea útil!
