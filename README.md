@@ -1,5 +1,5 @@
 ---
-# 🍦 Predicción de ventas de helados de una Heladería 🍨
+# 🍦 Predicción de ventas de helados 🍨
 
 Este proyecto simula el análisis de datos y la generación de gráficos para una heladería, utilizando R para el análisis y ggplot2 para la visualización.
 
